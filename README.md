@@ -15,8 +15,6 @@ It covers data exploration, gender-based trends, savings objectives, investment 
 🛠 Tools Used
 Power BI | Power Query | DAX | Data Visualization
 
-📸 Dashboard Preview
-
 
 📂 Files Included
 - Pranathi_PowerBI_Dashboard.pbix – Power BI file  

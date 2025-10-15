@@ -16,15 +16,15 @@ It covers data exploration, gender-based trends, savings objectives, investment 
 Power BI | Power Query | DAX | Data Visualization
 
 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+
 
 📂 Files Included
 - Pranathi_PowerBI_Dashboard.pbix – Power BI file  
 - Data_set_2.csv – Dataset used  
-- README.md` – Documentation  
-- Dashboard_Screenshot.png` – Visual preview  
+- README.md – Documentation  
+- Dashboard.png  
 
 👩‍💻 Created By
-Rudraraju Pranathi
+ Rudraraju Pranathi
   
 

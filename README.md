@@ -1,4 +1,4 @@
-Investment Insights Dashboard (Power BI)
+**Investment Insights Dashboard (Power BI)**
 
 🎯 Project Overview
 This Power BI dashboard analyzes investor behavior and preferences using data from Cognifyz Technologies.  
